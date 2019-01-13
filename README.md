@@ -6,7 +6,7 @@ Added some extra tilelayers and made a graphic in photoshop to visualize the dif
 The Smithsonian Global Volcanism Program is at the time of writing closed due to a United States federal government shutdown. Global Volcanism Program staff are out of the office and unable to maintain the site until further notice. I've sent them an email asking for permission to use their data, but I guess no one is there to answer. I therefore added their logo to the map as a small tribute for providing this data.
 
 
-To try it either download V5.py, GVP2.xls, GVP3.xls, elev.jpg and add them to your working directory and run v5.py, it will then produce 'world_volcanoes.html' in the same directory, which should be able to open and run in your browser.
+To try it either download V5.py, GVP2.xls, GVP3.xls, elev.jpg and add them to your working directory and run v5.py, it will then produce 'world_volcanoes.html' in the same directory, which should be able to open and run in your browser, or try it live following this adress: http://www.geocities.ws/ulrikzor/index.html
 
 
 This project is licensed under the MIT License - see the LICENSE.md file for details
