@@ -1,10 +1,10 @@
 
+
 import os
 import json
 import folium
 import pandas
 from folium import plugins
-from tabulate import tabulate
 from folium.features import DivIcon
 from geopy.geocoders import Nominatim
 from folium.plugins import MeasureControl, FloatImage
