@@ -3,9 +3,7 @@ import os
 import json
 import folium
 import pandas
-import requests
 from folium import plugins
-from bs4 import BeautifulSoup
 from tabulate import tabulate
 from folium.features import DivIcon
 from geopy.geocoders import Nominatim
